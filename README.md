@@ -62,24 +62,6 @@ Here are the technologies and tools I use to bring ideas to life:
 
 ---
 
-### 📊 My GitHub Stats & Trophies
-
-<p align="center">
-  <!-- GitHub Stats Card -->
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&locale=en&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Stats" />
-  </a>
-  <!-- Top Languages Card -->
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=YOUR_USERNAME&layout=compact&locale=en&theme=tokyonight&hide_border=true" alt="Top Languages" />
-  </a>
-  <!-- GitHub Trophies -->
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img align="center" src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
-  </a>
-</p>
-
----
 
 ### 🚀 Let's Connect
 
