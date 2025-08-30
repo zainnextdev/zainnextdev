@@ -45,9 +45,26 @@
 
 ## 🌌 Featured Projects  
 
-🔮 **[3D Immersive Portfolio](https://zainkhalid.vercel.app/)** — A futuristic showcase of my craft in **WebGL + Next.js**  
-🛍 **[Genius Mart](https://geniusmart.vercel.app/)** — An elegant, cyberpunk-inspired **E-commerce web app**  
-⚙️ **[AJ Collections](https://geniusmart.vercel.app/admin)** — Scalable Premium Jewelry **E-commerce web app** 
+<div align="center">
+
+<!-- Project 1 -->
+<a href="https://zainkhalid.vercel.app/" target="_blank">
+  <img src="https://img.shields.io/badge/⚡%20Immersive%203D%20Portfolio-0d1117?style=for-the-badge&logo=three.js&logoColor=00f5d4&labelColor=ff00ff" alt="3D Portfolio" />
+</a>  
+<p><i>A futuristic showcase of my craft in <b>WebGL + Next.js</b></i></p>
+
+<!-- Project 2 -->
+<a href="https://geniusmart.vercel.app/" target="_blank">
+  <img src="https://img.shields.io/badge/🛍%20GeniusMart%20E--Commerce-0d1117?style=for-the-badge&logo=vercel&logoColor=ff00ff&labelColor=00f5d4" alt="Genius Mart" />
+</a>  
+<p><i>An elegant, cyberpunk-inspired <b>E-commerce web app</b></i></p>
+
+<!-- Project 3 -->
+<a href="https://ajcollections.vercel.app/" target="_blank">
+  <img src="https://img.shields.io/badge/⚙️%20Admin%20CMS-0d1117?style=for-the-badge&logo=next.js&logoColor=00f5d4&labelColor=ff00ff" alt="AJ Collections" />
+</a>  
+<p><i>Scalable Jewelry <b>E-commerce web app</b></i></p>
+</div>
 
 ---
 
