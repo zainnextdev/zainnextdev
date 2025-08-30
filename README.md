@@ -1,88 +1,87 @@
-<!-- Animated, Premium GitHub Profile ReadMe for Zain Khalid -->
+<!-- 🔥 INSANE-LEVEL IMMERSIVE GITHUB PROFILE README 🔥 -->
 
-<!-- Hero Banner -->
+<!-- 🌌 Custom Banner (animated gradient + tagline) -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/zain-khalid-23/zain-khalid-portfolio/main/public/og-image.png" alt="Zain Khalid Banner" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00F5D4&height=220&section=header&text=Zain%20Khalid%20🚀&fontSize=60&animation=fadeIn&fontColor=0d1117&fontAlignY=40" />
 </p>
 
-<!-- Typing Animation -->
+<!-- ⚡ Typing Effect -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Plus+Jakarta+Sans&weight=600&size=28&pause=1000&color=00F5D4&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Zain+Khalid+👋;Full-Stack+Developer+%26+Designer;Composable+Vercel+Stack+Specialist;I+Architect+Premium+Web+Experiences" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=500&color=00F5D4&center=true&vCenter=true&width=700&lines=Full-Stack+Developer+%26+Designer;Composable+Vercel+Stack+Specialist;Architecting+Immersive+Web+Experiences;Let's+Build+Something+Elite+💎" alt="Typing SVG" />
 </h1>
 
-<h3 align="center">✨ Full-Stack Architect | Next.js & Vercel Specialist ✨</h3>
+---
 
-<br/>
-
-<!-- Social Badges -->
+<!-- 🌐 Social Links -->
 <p align="center">
   <a href="https://zainkhalid.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-00F5D4?style=for-the-badge&logo=vercel&logoColor=black" />
+    <img src="https://img.shields.io/badge/🌐%20Portfolio-00F5D4?style=for-the-badge&logo=vercel&logoColor=black" />
   </a>
-  <a href="https://www.linkedin.com/in/zain-khalid-dev/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="https://linkedin.com/in/zain-khalid-dev/" target="_blank">
+    <img src="https://img.shields.io/badge/💼%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:zain.nextdev@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/📩%20Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://github.com/zainnextdev">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/⚡%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
 ---
 
-## 🧑‍🎨 About Me
+## ✨ About Me  
 
-> I’m a **Full-Stack Developer & Designer** crafting **elite, high-performance, and immersive digital experiences**.  
-> My focus is the **Composable Vercel Stack** — architecting systems that are **scalable, minimal, and conversion-driven**.  
-> I build web apps that don’t just look good — they perform, convert, and leave a mark.
-
-⚡ Guiding Philosophy: *Every line of code is intentional. Every pixel has purpose.*
+💡 I’m Zain Khalid — a **Full-Stack Architect** specializing in **Next.js + Composable Vercel Stack**.  
+🎨 I blend **pixel-perfect design** with **scalable engineering** to craft **elite digital products**.  
+⚡ My philosophy: *Every animation, pixel, and function is intentional.*  
 
 ---
 
-## 🛠️ Tech Arsenal
+## 🛠️ My Tech Universe  
 
 <p align="center">
-  <!-- Core -->
-  <img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind,scss,styledcomponents" /><br/>
-  <!-- Backend -->
-  <img src="https://skillicons.dev/icons?i=nodejs,postgres,prisma,supabase,redis" /><br/>
-  <!-- Tools -->
-  <img src="https://skillicons.dev/icons?i=vercel,cloudflare,git,github" /><br/>
-  <!-- Motion -->
-  <img src="https://skillicons.dev/icons?i=threejs,figma" />
+  <img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind,scss,styledcomponents,prisma,postgres,redis,supabase,nodejs,vercel,cloudflare,git,github,threejs,figma" />
 </p>
+
+<div align="center">
+
+🔥 Frontend: **Next.js (App Router)** • Tailwind • shadcn/ui • AntD/MUI • Framer Motion  
+🚀 Backend: **Supabase / Neon** • Prisma • PostgreSQL • Clerk Auth • Redis Cache  
+🌐 DevOps: **Vercel CI/CD** • Cloudinary • Cloudflare • Supabase Buckets  
+
+</div>
 
 ---
 
-## 📌 Featured Projects
+## 🌟 Featured Projects  
 
 <table>
 <tr>
 <td align="center">
   <a href="https://zainkhalid.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio_(3D)-000000?style=for-the-badge&logo=vercel&logoColor=white" /><br/>
-    <sub>Main 3D Portfolio</sub>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=zainnextdev&repo=zain-khalid-portfolio&theme=radical&border_color=00F5D4&border_radius=12" /><br/>
+    <sub><b>Main 3D Portfolio</b></sub>
   </a>
 </td>
 <td align="center">
   <a href="https://zaindevportfolio.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/Side_Portfolio-111827?style=for-the-badge&logo=next.js&logoColor=white" /><br/>
-    <sub>Case Studies & Toolkit</sub>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=zainnextdev&repo=zaindevportfolio&theme=radical&border_color=00F5D4&border_radius=12" /><br/>
+    <sub><b> Portfolio </b></sub>
   </a>
 </td>
+</tr>
+<tr>
 <td align="center">
   <a href="https://geniusmart.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/GeniusMart-38B2AC?style=for-the-badge&logo=react&logoColor=white" /><br/>
-    <sub>E-commerce Platform</sub>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=zainnextdev&repo=geniusmart&theme=radical&border_color=00F5D4&border_radius=12" /><br/>
+    <sub><b>GeniusMart E-commerce</b></sub>
   </a>
 </td>
 <td align="center">
   <a href="https://ajcollections.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/AJ_Collections-9D174D?style=for-the-badge&logo=shopify&logoColor=white" /><br/>
-    <sub>Jewelry Store</sub>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=zainnextdev&repo=ajcollections&theme=radical&border_color=00F5D4&border_radius=12" /><br/>
+    <sub><b>AJ Collections Store</b></sub>
   </a>
 </td>
 </tr>
@@ -90,11 +89,11 @@
 
 ---
 
-## 📊 GitHub Highlights
+## 📊 GitHub Performance Dashboard  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zainnextdev&show_icons=true&theme=radical&hide_border=true&count_private=true" width="47%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zainnextdev&theme=radical&hide_border=true" width="47%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=zainnextdev&show_icons=true&theme=radical&hide_border=true&count_private=true&bg_color=0d1117&title_color=00F5D4&icon_color=00F5D4" height="180" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zainnextdev&theme=radical&hide_border=true&background=0d1117&ring=00F5D4&fire=00F5D4&currStreakLabel=00F5D4" height="180" />
 </p>
 
 <p align="center">
@@ -103,16 +102,15 @@
 
 ---
 
-## 🚀 Let’s Collaborate
+## 🚀 Let’s Build Together  
 
-I’m open to **freelance projects, collaborations, and remote opportunities**.  
-If you’re building something ambitious and want it delivered with **speed, elegance, and scalability**, I’m your guy.
-
-📩 **Reach out:** [zain.nextdev@gmail.com](mailto:zain.nextdev@gmail.com)  
-🌐 **Portfolio:** [zainkhalid.vercel.app](https://zainkhalid.vercel.app)
+💼 Available for **Freelance Projects** & **Remote Collaborations**  
+⚡ I deliver **elite-level dashboards, e-commerce, and landing pages** with insane speed.  
+📩 Reach out: **[zain.nextdev@gmail.com](mailto:zain.nextdev@gmail.com)**  
 
 ---
 
+<!-- Footer Wave Banner -->
 <p align="center">
-  <i>✨ Building the future, one pixel & one line of code at a time ✨</i>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00F5D4&height=150&section=footer"/>
 </p>
