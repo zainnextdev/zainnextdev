@@ -1,110 +1,75 @@
-<!-- 🚀 ZAIN KHALID | DIGITAL ARCHITECT README -->
-
-<!-- 🔮 Custom Banner -->
+<!-- Futuristic Banner -->
 <p align="center">
-  <img src="./banner.svg" alt="Zain Khalid | Digital Architect" />
+  <img src="https://raw.githubusercontent.com/zainnextdev/zainnextdev/main/assets/futuristic-banner.gif" 
+       alt="Zain Khalid | Digital Architect" width="100%" />
 </p>
 
-
+<!-- Typing Effect Headline -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=34&duration=3500&pause=500&color=00F5D4&center=true&vCenter=true&width=750&lines=🚀+Senior+Full-Stack+Developer;⚡+Digital+Experience+Architect;🎨+Immersive+3D+Web+Designer;🔥+Composable+Vercel+Stack+Specialist" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=32&duration=3000&pause=500&color=00F5D4&center=true&vCenter=true&width=800&lines=⚡+Zain+Khalid+-+Digital+Architect;Full+Stack+Engineer+|+Next.js+Specialist;Crafting+3D+Immersive+Experiences" alt="Typing SVG" />
 </h1>
 
 ---
 
-## 🌌 About Me  
+## 🧑‍💻 About Me  
 
-💎 I’m **Zain Khalid**, a **Senior Full-Stack Developer & Digital Architect**, building  
-elite-level **immersive, futuristic, and scalable web platforms**.  
+✨ I am **Zain Khalid**, a **Digital Architect** passionate about **building immersive, high-performance web ecosystems** with **Next.js & Composable Vercel Stack**.  
 
-⚡ Specialized in the **Composable Vercel Stack** → Next.js • Prisma • Supabase • Clerk • Neon • Tailwind • shadcn/ui  
-🎨 Fusing **3D design + cutting-edge engineering** to deliver unique, premium digital experiences.  
-🌍 Vision: *Architect the future of the web.*  
+🔹 Every project I build is engineered with **minimalism + performance** in mind, blending **3D design, premium UI, and scalable architecture**.  
+🔹 I specialize in **creating premium-grade digital experiences** that feel alive, interactive, and purposeful.  
 
 ---
 
-## 🛠️ My 3D Tech Arsenal  
+## 🛠️ My Premium Tech Stack  
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind,scss,prisma,postgres,redis,supabase,nodejs,vercel,cloudflare,threejs,figma,git,github&perline=8" />
+  <img src="https://skillicons.dev/icons?i=nextjs,react,typescript,tailwind,prisma,postgres,supabase,vercel,threejs,gsap,git,github" />
 </p>
 
-<div align="center">
-
-🔹 **Frontend** → Next.js (App Router) • React • Tailwind • Framer Motion • shadcn/ui  
-🔹 **Backend** → Prisma • PostgreSQL • Supabase • Clerk Auth • Redis • Neon DB  
-🔹 **DevOps** → Vercel • Cloudflare • Supabase Edge • Cloudinary  
-
-</div>
+> ⚡ Core Specialization: **Next.js + Composable Vercel Stack**  
+> 🎨 Design Arsenal: **Framer Motion, Shadcn/UI, AntD, TailwindCSS**  
+> 🔐 Backend Expertise: **Supabase, Prisma, Clerk, PostgreSQL, Redis**  
+> 🚀 DevOps & Scaling: **Vercel, Cloudflare, Cloudinary**  
 
 ---
 
-## 🌟 Featured Digital Creations  
+## 🎨 Featured Works  
 
-<table>
-<tr>
-<td align="center">
-  <a href="https://zainkhalid.vercel.app" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=zainnextdev&repo=zain-khalid-portfolio&theme=vision-friendly-dark&border_color=00F5D4&border_radius=15" /><br/>
-    <b>🔮 Immersive 3D Portfolio</b>
+<p align="center">
+  <a href="https://zainkhalid.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-00F5D4?style=for-the-badge&logo=vercel&logoColor=black" />
   </a>
-</td>
-<td align="center">
-  <a href="https://zaindevportfolio.vercel.app" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=zainnextdev&repo=zaindevportfolio&theme=vision-friendly-dark&border_color=00F5D4&border_radius=15" /><br/>
-    <b>📂 Dev Portfolio</b>
+  <a href="https://geniusmart.vercel.app/">
+    <img src="https://img.shields.io/badge/Ecommerce_App-7209B7?style=for-the-badge&logo=nextdotjs&logoColor=white" />
   </a>
-</td>
-</tr>
-<tr>
-<td align="center">
-  <a href="https://geniusmart.vercel.app" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=zainnextdev&repo=geniusmart&theme=vision-friendly-dark&border_color=00F5D4&border_radius=15" /><br/>
-    <b>🛒 GeniusMart E-commerce</b>
+  <a href="https://ajcollections.vercel.app/">
+    <img src="https://img.shields.io/badge/Jewellery_Store-F72585?style=for-the-badge&logo=react&logoColor=white" />
   </a>
-</td>
-<td align="center">
-  <a href="https://ajcollections.vercel.app" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=zainnextdev&repo=ajcollections&theme=vision-friendly-dark&border_color=00F5D4&border_radius=15" /><br/>
-    <b>💍 AJ Collections Store</b>
-  </a>
-</td>
-</tr>
-</table>
-
----
-
-## 📊 My 3D Dev Universe  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zainnextdev&show_icons=true&theme=radical&hide_border=true&count_private=true&bg_color=0d1117&title_color=00F5D4&icon_color=00F5D4" height="190" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zainnextdev&theme=radical&hide_border=true&background=0d1117&ring=00F5D4&fire=00F5D4&currStreakLabel=00F5D4" height="190" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=zainnextdev&bg_color=0D1117&color=00F5D4&line=00F5D4&point=FFFFFF&hide_border=true" />
 </p>
 
 ---
 
-## 🪐 Contribution Galaxy  
+## 📊 GitHub Insights  
 
 <p align="center">
-  <img src="https://github.com/zainnextdev/zainnextdev/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  <img src="https://github-readme-stats.vercel.app/api?username=zainnextdev&show_icons=true&theme=radical&hide_border=true&count_private=true" height="180" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zainnextdev&theme=radical&hide_border=true" height="180" />
 </p>
 
 ---
 
-## 🚀 Let’s Build the Future  
+## 🌎 Let’s Connect  
 
-✨ Open for **Freelance Projects & Remote Collaborations**  
-🔥 Expert in **dashboards, SaaS platforms, immersive portfolios & e-commerce**  
-📩 Contact me → **[zain.nextdev@gmail.com](mailto:zain.nextdev@gmail.com)**  
-🌐 Portfolio → **[zainkhalid.vercel.app](https://zainkhalid.vercel.app)**  
+<p align="center">
+  <a href="https://zainkhalid.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-0A192F?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/zain-khalid-dev/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:zain.nextdev@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
 
 ---
 
-<!-- 🌊 Futuristic Footer -->
+<!-- Futuristic Footer -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00F5D4&height=150&section=footer"/>
+  <img src="https://raw.githubusercontent.com/zainnextdev/zainnextdev/main/assets/futuristic-divider.gif" width="100%" />
 </p>
+<p align="center">🚀 *Crafting the Future of Web Experiences* 🚀</p>
