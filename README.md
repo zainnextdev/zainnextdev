@@ -61,7 +61,7 @@
 
 <!-- Project 3 -->
 <a href="https://ajcollections.vercel.app/" target="_blank">
-  <img src="https://img.shields.io/badge/⚙️%20AJ%20Collections-0d1117?style=for-the-badge&logo=next.js&logoColor=00f5d4&labelColor=ff00ff" alt="AJ Collections" />
+  <img src="https://img.shields.io/badge/⚙️%20AJCollections%20Store-0d1117?style=for-the-badge&logo=next.js&logoColor=00f5d4&labelColor=ff00ff" alt="AJ Collections" />
 </a>  
 <p><i>Scalable Jewelry <b>E-commerce web app</b></i></p>
 </div>
