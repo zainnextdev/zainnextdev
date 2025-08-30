@@ -205,11 +205,11 @@
 <img src="./gmail.png" width=50 height=50 alt="zain.nextdev@gmail.com" style="margin-bottom: 5px;" />
 </a>
 
-<a href="https://www.instagram.com/kiran_a_n" target="_blank">
+<a href="https://www.instagram.com/zain.khalid__/" target="_blank">
 <img src="./instagram.png" width=50 height=50 alt="kiran_a_n" style="margin-bottom: 5px;" />
 </a>
 
-<a href="https://www.linkedin.com/in/kiran-a-n/" target="_blank">
+<a href="[https://www.linkedin.com/in/kiran-a-n/](https://www.linkedin.com/in/zain-khalid-dev/)" target="_blank">
 <img src="./linkedin.png" width=50 height=50 alt="linkedin" style="margin-bottom: 5px;" />
 </a>
 
