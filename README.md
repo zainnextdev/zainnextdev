@@ -2,8 +2,9 @@
 
 <!-- 🔮 Custom Banner -->
 <p align="center">
-  <img src="https://svg-banners.vercel.app/api?type=glitch&text1=ZAIN%20KHALID%20⚡%20Digital%20Architect&width=1200&height=200" alt="Zain Khalid Banner"/>
+  <img src="./banner.svg" alt="Zain Khalid | Digital Architect" />
 </p>
+
 
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=34&duration=3500&pause=500&color=00F5D4&center=true&vCenter=true&width=750&lines=🚀+Senior+Full-Stack+Developer;⚡+Digital+Experience+Architect;🎨+Immersive+3D+Web+Designer;🔥+Composable+Vercel+Stack+Specialist" alt="Typing Animation" />
