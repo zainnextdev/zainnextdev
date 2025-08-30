@@ -23,7 +23,7 @@
 
 <!--Profile Count Badge-->
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=Kiran1689&label=Profile%20views&color=770677&style=for-the-badge&logo=star" alt="Kiran1689" style="padding-right:20px;" />
+  <img src="https://komarev.com/ghpvc/?username=zainnextdev&label=Profile%20views&color=770677&style=for-the-badge&logo=star" alt="zainnextdev" style="padding-right:20px;" />
 </p>
 
 ---
@@ -56,7 +56,6 @@
 
 
 <!--Github stats Table--> 
-<h2 align="center">📊 Gɪᴛʜᴜʙ Sᴛᴀᴛs 📊</h2>
 
 <table width="100%">
   <tr>
