@@ -1,68 +1,118 @@
-<!--
-**NOTE:**
-This is a Markdown file. To get the best visual result, use the "Preview" tab in GitHub's editor.
-Replace 'YOUR_USERNAME' with your actual GitHub username where indicated.
--->
+<!-- Animated, Premium GitHub Profile ReadMe for Zain Khalid -->
 
-<!-- Professional Header Banner -->
+<!-- Hero Banner -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/zain-khalid-23/zain-khalid-portfolio/main/public/og-image.png" alt="Zain Khalid Portfolio Banner" />
+  <img src="https://raw.githubusercontent.com/zain-khalid-23/zain-khalid-portfolio/main/public/og-image.png" alt="Zain Khalid Banner" width="100%" />
 </p>
 
-<!-- Introduction & SEO Headline -->
-<h1 align="center">Hey there, I'm Zain Khalid 👋</h1>
-<h3 align="center">A Full-Stack Architect specializing in Next.js, crafting visually stunning and high-performance web experiences.</h3>
+<!-- Typing Animation -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Plus+Jakarta+Sans&weight=600&size=28&pause=1000&color=00F5D4&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Zain+Khalid+👋;Full-Stack+Developer+%26+Designer;Composable+Vercel+Stack+Specialist;I+Architect+Premium+Web+Experiences" alt="Typing SVG" />
+</h1>
 
-<br>
+<h3 align="center">✨ Full-Stack Architect | Next.js & Vercel Specialist ✨</h3>
 
-<!-- Social Links & Badges -->
+<br/>
+
+<!-- Social Badges -->
 <p align="center">
-  <a href="https://zain-khalid-portfolio.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-00F5D4?style=for-the-badge&logo=Vercel&logoColor=black" alt="Portfolio"/>
+  <a href="https://zainkhalid.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-00F5D4?style=for-the-badge&logo=vercel&logoColor=black" />
   </a>
-  <a href="https://www.linkedin.com/in/zain-khalid-b91873318/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <a href="https://www.linkedin.com/in/zain-khalid-dev/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:zain.nextdev@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/zainnextdev">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
 ---
 
-### 👨‍💻 About Me
+## 🧑‍🎨 About Me
 
-I am a passionate developer and digital craftsman with a keen eye for architectural design and user experience. My philosophy is built on minimalism and purpose; every line of code, every animation, and every pixel is placed with intent to create intuitive and memorable digital journeys. I specialize in the Vercel ecosystem, transforming complex problems into elegant, efficient, and interactive solutions.
+> I’m a **Full-Stack Developer & Designer** crafting **elite, high-performance, and immersive digital experiences**.  
+> My focus is the **Composable Vercel Stack** — architecting systems that are **scalable, minimal, and conversion-driven**.  
+> I build web apps that don’t just look good — they perform, convert, and leave a mark.
+
+⚡ Guiding Philosophy: *Every line of code is intentional. Every pixel has purpose.*
 
 ---
 
-### 🛠️ My Tech Stack & Arsenal
+## 🛠️ Tech Arsenal
 
-Here are the technologies and tools I use to bring ideas to life:
-
-<p align="left">
-    <!-- Frontend -->
-    <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
-    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-    <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
-    <!-- Backend & Database -->
-    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-    <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
-    <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-    <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" alt="Prisma" />
-    <!-- Animation & 3D -->
-    <img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white" alt="Three.js" />
-    <img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white" alt="GSAP" />
-    <!-- Tools & Deployment -->
-    <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
-    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+<p align="center">
+  <!-- Core -->
+  <img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind,scss,styledcomponents" /><br/>
+  <!-- Backend -->
+  <img src="https://skillicons.dev/icons?i=nodejs,postgres,prisma,supabase,redis" /><br/>
+  <!-- Tools -->
+  <img src="https://skillicons.dev/icons?i=vercel,cloudflare,git,github" /><br/>
+  <!-- Motion -->
+  <img src="https://skillicons.dev/icons?i=threejs,figma" />
 </p>
 
 ---
 
+## 📌 Featured Projects
 
-### 🚀 Let's Connect
+<table>
+<tr>
+<td align="center">
+  <a href="https://zainkhalid.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio_(3D)-000000?style=for-the-badge&logo=vercel&logoColor=white" /><br/>
+    <sub>Main 3D Portfolio</sub>
+  </a>
+</td>
+<td align="center">
+  <a href="https://zaindevportfolio.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/Side_Portfolio-111827?style=for-the-badge&logo=next.js&logoColor=white" /><br/>
+    <sub>Case Studies & Toolkit</sub>
+  </a>
+</td>
+<td align="center">
+  <a href="https://geniusmart.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/GeniusMart-38B2AC?style=for-the-badge&logo=react&logoColor=white" /><br/>
+    <sub>E-commerce Platform</sub>
+  </a>
+</td>
+<td align="center">
+  <a href="https://ajcollections.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/AJ_Collections-9D174D?style=for-the-badge&logo=shopify&logoColor=white" /><br/>
+    <sub>Jewelry Store</sub>
+  </a>
+</td>
+</tr>
+</table>
 
-I'm currently **available for freelance projects** and open to new opportunities. If you have a project in mind or just want to connect, feel free to reach out!
+---
+
+## 📊 GitHub Highlights
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=zainnextdev&show_icons=true&theme=radical&hide_border=true&count_private=true" width="47%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zainnextdev&theme=radical&hide_border=true" width="47%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=zainnextdev&bg_color=0D1117&color=00F5D4&line=00F5D4&point=FFFFFF&hide_border=true" />
+</p>
+
+---
+
+## 🚀 Let’s Collaborate
+
+I’m open to **freelance projects, collaborations, and remote opportunities**.  
+If you’re building something ambitious and want it delivered with **speed, elegance, and scalability**, I’m your guy.
+
+📩 **Reach out:** [zain.nextdev@gmail.com](mailto:zain.nextdev@gmail.com)  
+🌐 **Portfolio:** [zainkhalid.vercel.app](https://zainkhalid.vercel.app)
+
+---
+
+<p align="center">
+  <i>✨ Building the future, one pixel & one line of code at a time ✨</i>
+</p>
